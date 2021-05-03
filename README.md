@@ -1,3 +1,13 @@
-Yo im phobo and im a learning java dev, currently working on 2 public projects  https://github.com/phobologicalt/autodupe-for-8b8t and https://github.com/phobologicalt/welcomer
-I am also working on a private client called EzWare which is a client for me to learn java, when im done with it, it will most likely get leaked and passed  on to the masses. 
-Thanks for reading ig, im phobo.
+<h1>
+Yo im phobo, a java dev and master pvper<br>
+currently working on the best client ever known to man kind
+</h1>
+<h3>Current projects⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀contact me </h3>
+<h4>- Dysnomia.ru [java]⠀⠀⠀⠀⠀⠀⠀⠀⠀- discord : PhoboLogical#5625</h4>
+<h3>Failed projects⠀⠀⠀⠀⠀⠀⠀⠀⠀　⠀⠀ ⠀  
+<h4>- Arab.cc [java]</h4>
+<h4>- Skidd.cc [py]</h4>
+<h5> Thanks for reading, and thanks to TrvsF for readme base (https://github.com/TrvsF/TrvsF/blob/master/README.md) </h5>
+
+
+<p> <img src="https://komarev.com/ghpvc/?username=phobologicalt&color=8E64D0" alt="phobologicalt" /> </p>.
