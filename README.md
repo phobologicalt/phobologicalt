@@ -6,7 +6,7 @@ currently working on the best client ever known to man kind
 <h4>- Dysnomia.ru [java]⠀⠀⠀⠀⠀⠀⠀⠀⠀- discord : PhoboLogical#5625</h4>
 <h3>Failed projects⠀⠀⠀⠀⠀⠀⠀⠀⠀　⠀⠀ ⠀  
 <h4>- Arab.cc [java]</h4>
-<h4>- Skidd.cc [py]</h4>
+<h4>- Skidd.cc [java]</h4>
 <h5> Thanks for reading, and thanks to TrvsF for readme base (https://github.com/TrvsF/TrvsF/blob/master/README.md) </h5>
 
 
