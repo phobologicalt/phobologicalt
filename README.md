@@ -1,6 +1,5 @@
 <h1>
 Yo im phobo, a java dev and master pvper<br>
-currently working on the best client ever known to man kind
 </h1>
 <h3>Current projects⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀contact me </h3>
 <h4>- Dysnomia.ru [java]⠀⠀⠀⠀⠀⠀⠀⠀⠀- discord : PhoboLogical#5625</h4>
