@@ -6,9 +6,9 @@ Yo im phobo, a java dev and master pvper<br>
 <h3>Failed projects⠀⠀⠀⠀⠀⠀⠀⠀⠀　⠀⠀ ⠀  
 <h4>- Arab.cc [java]</h4>
 <h4>- Skidd.cc [java]</h4>
-<h4> Successfull projects
-<h3>- LoveGone [C#]
-<h3>- Skidd [Batch] 
+<h3> Successfull projects
+<h4>- LoveGone [C#]
+<h4>- Skidd [Batch] 
 <h5> Thanks for reading, and thanks to TrvsF for readme base (https://github.com/TrvsF/TrvsF/blob/master/README.md) </h5>
 
 
