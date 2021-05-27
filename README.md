@@ -1,26 +1,27 @@
 <h1>
-Im master dev >:^)
+Im master dev >:^) 
   
-  
-<h3>                                                                              <h3>
-  Languages im learning right now                                           Contact
-  <h4>                                                                    <h4>  
-https://en.wikipedia.org/wiki/Java_(programming_language)                 Discord: PhoboLogical#5625      
+                                                                                  <h3>  
+<h3>                                                                              Contact:
+Languages im learning right now                                                <h4>  
+                                                                       Discord: PhoboLogical#5625                                                                                                   
+<h4>                                                                            
+[<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>][java]&nbsp;         
+    [java]: https://en.wikipedia.org/wiki/Java_(programming_language)
     
-    
-    <h3>
-      Previous projects
-      <h4>
-        Skidd.cc (java, failed)
-        Skidd (Batch, success
-        PitWare / Fobus+ (Java, cancelled)
-        Arab.cc (Java, failed)
-        LoveGone (C#, success)
+<h3>
+Previous projects
+<h4>
+Skidd.cc (java, failed)
+Skidd (Batch, success
+PitWare / Fobus+ (Java, cancelled)
+Arab.cc (Java, failed)
+LoveGone (C#, success)
         
-   <h3> 
-     Current projects
-     <h4>
-       Dysnomia.ru (Java)
+<h3> 
+Current projects
+<h4>
+Dysnomia.ru (Java)
        
        
        
